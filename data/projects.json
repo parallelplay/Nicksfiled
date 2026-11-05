@@ -1,0 +1,898 @@
+{
+  "projects": [
+    {
+      "id": "proj-1792656308674",
+      "title": "Project 05",
+      "dedicatedFolder": "Project 05",
+      "thumbnail": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400&auto=format&fit=crop&q=80",
+      "isPrivate": true,
+      "brief": "# Project: Project 05\n\nAdd your cinematic notes, character descriptions, and aesthetic locks here.",
+      "elements": [],
+      "folders": [
+        {
+          "id": "all",
+          "name": "All assets",
+          "parentId": null,
+          "category": "all",
+          "color": "#cbd5e1",
+          "assetCount": 0
+        },
+        {
+          "id": "renders",
+          "name": "Renders & Masters",
+          "parentId": null,
+          "category": "renders",
+          "color": "#eab308",
+          "assetCount": 0
+        },
+        {
+          "id": "renders-1080p",
+          "name": "1080p Final Cuts",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#06b6d4",
+          "assetCount": 0
+        },
+        {
+          "id": "renders-720p",
+          "name": "720p Fast Previews",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#10b981",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes",
+          "name": "Scenes & Sequences",
+          "parentId": null,
+          "category": "scenes",
+          "color": "#a855f7",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act1",
+          "name": "Act 1 - Intro",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act2",
+          "name": "Act 2 - Product Showcase",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act3",
+          "name": "Act 3 - Logo Reveal",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "drafts",
+          "name": "Drafts & Experiments",
+          "parentId": null,
+          "category": "drafts",
+          "color": "#94a3b8",
+          "assetCount": 0
+        },
+        {
+          "id": "drafts-prompts",
+          "name": "Prompt Iterations",
+          "parentId": "drafts",
+          "category": "drafts",
+          "color": "#cbd5e1",
+          "assetCount": 0
+        },
+        {
+          "id": "elements-tests",
+          "name": "Character & Prop Locks",
+          "parentId": null,
+          "category": "elements",
+          "color": "#f43f5e",
+          "assetCount": 0
+        },
+        {
+          "id": "folder-1792656592074",
+          "name": "3",
+          "parentId": "scenes",
+          "category": "custom",
+          "color": "#eab308",
+          "assetCount": 0
+        }
+      ],
+      "assets": []
+    },
+    {
+      "id": "proj-1791887082099",
+      "title": "Project 04",
+      "thumbnail": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400&auto=format&fit=crop&q=80",
+      "isPrivate": true,
+      "brief": "# Project: Project 04\n\nAdd your cinematic notes, character descriptions, and aesthetic locks here.",
+      "elements": [
+        {
+          "id": "elem-1791887360748",
+          "name": "LOGO",
+          "tag": "@prop_logo",
+          "category": "prop",
+          "thumbnail": "/uploads/1791887343254_05_LOGO_trsp.png",
+          "description": "",
+          "referenceImages": [
+            "/uploads/1791887343254_05_LOGO_trsp.png"
+          ]
+        },
+        {
+          "id": "elem-1791891665304",
+          "name": "Character 02",
+          "tag": "@char02",
+          "category": "character",
+          "thumbnail": "/uploads/1791891657978_Tanisha_01.png",
+          "description": "",
+          "referenceImages": [
+            "/uploads/1791891657978_Tanisha_01.png"
+          ]
+        },
+        {
+          "id": "elem-1791892028832",
+          "name": "set_diamond_fringe_nofaces",
+          "tag": "@prop_set_diamond_fringe_nofaces",
+          "category": "prop",
+          "thumbnail": "/uploads/1791892004431_set_diamond_fringe_nofaces.png",
+          "description": "",
+          "referenceImages": [
+            "/uploads/1791892004431_set_diamond_fringe_nofaces.png"
+          ]
+        },
+        {
+          "id": "elem-1791892066896",
+          "name": "set_diamond_ruby_nofaces",
+          "tag": "@prop_set_diamond_ruby_nofaces",
+          "category": "prop",
+          "thumbnail": "/uploads/1791892046231_set_diamond_ruby_nofaces.png",
+          "description": "",
+          "referenceImages": [
+            "/uploads/1791892046231_set_diamond_ruby_nofaces.png"
+          ]
+        },
+        {
+          "id": "elem-1791892099656",
+          "name": "set_temple_nofaces",
+          "tag": "@prop_set_temple_nofaces",
+          "category": "prop",
+          "thumbnail": "/uploads/1791892081728_set_temple_nofaces.png",
+          "description": "",
+          "referenceImages": [
+            "/uploads/1791892081728_set_temple_nofaces.png"
+          ]
+        }
+      ],
+      "folders": [
+        {
+          "id": "all",
+          "name": "All assets",
+          "parentId": null,
+          "category": "all",
+          "color": "#cbd5e1",
+          "assetCount": 4
+        },
+        {
+          "id": "renders",
+          "name": "Renders & Masters",
+          "parentId": null,
+          "category": "renders",
+          "color": "#eab308",
+          "assetCount": 4
+        },
+        {
+          "id": "renders-1080p",
+          "name": "1080p Final Cuts",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#06b6d4",
+          "assetCount": 4
+        },
+        {
+          "id": "renders-720p",
+          "name": "720p Fast Previews",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#10b981",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes",
+          "name": "Scenes & Sequences",
+          "parentId": null,
+          "category": "scenes",
+          "color": "#a855f7",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act1",
+          "name": "Act 1 - Intro",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act2",
+          "name": "Act 2 - Product Showcase",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act3",
+          "name": "Act 3 - Logo Reveal",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "drafts",
+          "name": "Drafts & Experiments",
+          "parentId": null,
+          "category": "drafts",
+          "color": "#94a3b8",
+          "assetCount": 0
+        },
+        {
+          "id": "elements-tests",
+          "name": "Character & Prop Locks",
+          "parentId": null,
+          "category": "elements",
+          "color": "#f43f5e",
+          "assetCount": 0
+        }
+      ],
+      "assets": [
+        {
+          "id": "gen-cgt-20261013205504-c33x3",
+          "title": "Generated Shot (1080p 20s)",
+          "videoUrl": "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3004914999/Video/3x33c-40550231016202-tgc_924f8bc6bb8a0cffff00000000000000000000933775698197120/cgt-20261013205504-c33x3.mp4?X-Tos-Algorithm=TOS4-HMAC-SHA256&X-Tos-Credential=EXPIRED_TOS_KEY_REDACTED%2F20261013%2Fap-southeast-1%2Ftos%2Frequest&X-Tos-Date=20261013T131127Z&X-Tos-Expires=86400&X-Tos-Max-Requests=100&X-Tos-Signature=47c5323e4d0a6cd71932c6fb33f61396a3ff4beeb1522ee166ec8fa937b8af70&X-Tos-SignedHeaders=host",
+          "thumbnail": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&auto=format&fit=crop&q=80",
+          "prompt": "BytePlus ModelArk Generation (cgt-20261013205504-c33x3)",
+          "duration": "20s",
+          "aspectRatio": "9:16",
+          "resolution": "1080p",
+          "model": "Seedance 2.5",
+          "createdAt": "6:41:27 pm",
+          "tokensUsed": 974025,
+          "elementsUsed": [],
+          "projectId": "proj-1791887082099",
+          "projectTitle": "Project 04",
+          "folderId": "renders-1080p",
+          "folderPath": "Renders & Masters / 1080p Final Cuts",
+          "category": "1080p Final Cuts"
+        },
+        {
+          "id": "gen-cgt-20261013200744-m3jq3",
+          "title": "Shot 03: Vertical 9:16, 20 seconds, 108...",
+          "videoUrl": "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3004914999/Video/3qj3m-44700231016202-tgc_bc1561c6bb8a0cffff00000000000000000000221662398197120/cgt-20261013200744-m3jq3.mp4?X-Tos-Algorithm=TOS4-HMAC-SHA256&X-Tos-Credential=EXPIRED_TOS_KEY_REDACTED%2F20261013%2Fap-southeast-1%2Ftos%2Frequest&X-Tos-Date=20261013T121253Z&X-Tos-Expires=86400&X-Tos-Max-Requests=100&X-Tos-Signature=d88b16d50f7914f2e9614cb5dd2744e3e27509808ca3ca65d6274adbc2a75161&X-Tos-SignedHeaders=host",
+          "thumbnail": "/uploads/1791891657978_Tanisha_01.png",
+          "prompt": "Vertical 9:16, 20 seconds, 1080p. Photorealistic luxury jewellery brand film, high detail, sharp, 35mm film look, soft warm studio light, natural skin with visible texture. Calm, unhurried, graceful pacing with gentle movement.\n\nReferences, locked exactly as given:\n@char02 is the woman. Lock her face, features, skin tone and hairstyle exactly as in the reference in every shot. Never change her identity.\n@prop01 is the necklace she finally chooses and wears. Keep its exact design, colour and detail.\n@prop02 is the hanging gold earrings she wears. Keep their exact design, colour and detail.\n@prop_set_diamond_fringe_nofaces is a diamond fringe necklace. @prop_set_diamond_ruby_nofaces is a diamond necklace with ruby. @prop_set_temple_nofaces is a layered temple necklace. These three appear only as floating pieces in the opening. From each prop image use only the jewellery design, never its neck, skin, body or background. Keep each design exact.\nShe wears only @prop01 and @prop02, no other jewellery.\n@prop_logo is the brand logo, used only in the final scene: flat champagne-gold, exactly as in the image. No glow, bloom, shadow or 3D.\n\nLook: warm gold-caramel seamless studio backdrop. Soft large key light from camera-left, gentle rim light from behind, so the gold shows small clean highlights. She wears a deep emerald silk designer saree-gown with a fine gold zari border and gold-embroidered hem, a structured square-neck blouse with short sleeves, fully covered and elegant. No logo, text or watermark anywhere in the frame before 15s.\n\nPerformance: a real woman at a candid photo shoot. Natural micro-expressions: soft breathing, slow blinks, a smile that grows from the eyes, relaxed shoulders, a slight head tilt. Her eyes move naturally. No fixed stare and no stiff smile.\n\nMusic: (elegant cinematic luxury score, 96 BPM, soft pulse, warm pads, glassy bell arps, gentle strings. Every cut lands on the bar line, 2.5s per bar.)\n\n0-7.5s: Medium shot. She sits relaxed, slightly angled to the camera. A thin gold bracket frame hovers in front of her chest. Five jewellery pieces glide slowly through it in one continuous row, about three visible at a time, in this order: @prop_set_diamond_fringe_nofaces, @prop_set_diamond_ruby_nofaces, @prop_set_temple_nofaces, @prop02, @prop01. Her eyes follow the pieces with soft curiosity as they pass. Her right hand rises slowly with an open palm and a fingertip hovering lightly above them, as if browsing. From 5.5s the row slows and @prop01 drifts to the centre and stops. At 6.25s her eyes light up, her brows lift slightly, and her smile grows warm. She looks up to the camera and gives a soft nod, with her fingertip lightly pointing at @prop01. Camera slowly pushes in.\n7.5s: A soft pink-white light wash sweeps across the frame.\n7.5-10s: Full-length shot. She now stands wearing @prop01 and @prop02, with one hand lightly holding the saree drape. She shifts her weight naturally, glances down at the necklace and back up to the camera with a quiet, proud smile. Camera slowly pushes in.\n10-12.5s: Macro on @prop01 on her neckline. Light rolls across every detail while her breathing moves the silk very slightly. Camera slowly pushes in.\n12.5-15s: Close-up of her face and the earring. She looks into the camera, blinks slowly, and a natural smile blossoms. Her fingertips rest lightly on her cheek and @prop02 sways gently. Camera holds steady.\n15-20s: LOGO ANIMATION, the only place the logo appears. A soft light wash reveals a clean warm ivory-champagne background with subtle silk folds. Fine gold particles drift together from all sides and slowly gather into @prop_logo, centred and large. One single soft foil sheen passes across it once, and a thin gold line draws itself beneath it. The logo settles still, flat, crisp and sharp. In the last 0.3 seconds everything fades out gently.\n\nSound: (soft fabric rustle, delicate jewel clinks, airy light-wash whoosh at 7.5s and 15s, a soft shimmer as the particles gather, a single clean chime when the logo settles.) No voice-over.\nOn-screen text: none, except the MVZA logo in the final scene.\nConstraints: @char02 stays identical in every shot, @prop01 and @prop02 stay identical in every shot, the set pieces keep their exact designs, no extra jewellery on her, natural eye contact and expressions, smooth motion, no flicker, no jitter, no glow on the logo, no logo or text before 15s.",
+          "duration": "20s",
+          "aspectRatio": "9:16",
+          "resolution": "1080p",
+          "model": "Seedance 2.5",
+          "createdAt": "Just now",
+          "elementsUsed": [
+            "@char02",
+            "@prop01",
+            "@prop02",
+            "@prop_set_diamond_fringe_nofaces",
+            "@prop_set_diamond_ruby_nofaces",
+            "@prop_set_temple_nofaces",
+            "@prop_logo"
+          ],
+          "tokensUsed": 974025,
+          "projectId": "proj-1791887082099",
+          "projectTitle": "Project 04",
+          "folderId": "renders-1080p",
+          "folderPath": "Renders & Masters / 1080p Final Cuts",
+          "category": "1080p Final Cuts"
+        },
+        {
+          "id": "gen-cgt-20261013195045-bb1ps",
+          "title": "Shot 02: Vertical 9:16, 20 seconds, 108...",
+          "videoUrl": "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3004914999/Video/sp1bb-54059131016202-tgc_93262a66bb8a0cffff00000000000000000000449642298197120/cgt-20261013195045-bb1ps.mp4?X-Tos-Algorithm=TOS4-HMAC-SHA256&X-Tos-Credential=EXPIRED_TOS_KEY_REDACTED%2F20261013%2Fap-southeast-1%2Ftos%2Frequest&X-Tos-Date=20261013T115637Z&X-Tos-Expires=86400&X-Tos-Max-Requests=100&X-Tos-Signature=e70d7d5fdb6a43326da9e727becd491bedd78506e8ab768678768686a96d0b72&X-Tos-SignedHeaders=host",
+          "thumbnail": "/uploads/1791891657978_Tanisha_01.png",
+          "prompt": "Vertical 9:16, 20 seconds, 1080p. Photorealistic luxury jewellery brand film, high detail, sharp, 35mm film look, soft warm studio light, natural skin with visible texture. Smooth, graceful, gentle movement.\n\nReferences, locked exactly as given:\n@char02 is the woman. Lock her face, features, skin tone and hairstyle exactly as in the reference in every shot. Never change her identity.\n@prop01 is the necklace she finally chooses and wears. Keep its exact design, colour and detail.\n@prop02 is the hanging gold earrings she wears. Keep their exact design, colour and detail.\n@prop_set_diamond_fringe_nofaces is a diamond fringe necklace. @prop_set_diamond_ruby_nofaces is a diamond necklace with ruby. @prop_set_temple_nofaces is a layered temple necklace. These three appear as floating pieces in the opening carousel. From each prop image use only the jewellery design, never its neck, skin, body or background. Keep each design exact.\nShe wears only @prop01 and @prop02, no other jewellery.\n@prop_logo is the brand logo: flat champagne-gold, exactly as in the image, small and centred at the top of every frame. No glow, bloom, shadow or 3D.\n\nLook: warm gold-caramel seamless studio backdrop. Soft large key light from camera-left, gentle rim light from behind, so the gold shows small clean highlights. She wears a deep red draped ruffle saree with a cream silk blouse.\n\nMusic: (elegant cinematic luxury score, 96 BPM, soft pulse, warm pads, glassy bell arps, gentle strings. Every cut lands on the bar line, 2.5s per bar.)\n\n0-5s: She sits relaxed, facing the camera, a soft smile. Thin gold bracket frames hover in front of her chest. The jewellery pieces glide through them one at a time in a floating carousel, each for about 1 second: @prop_set_diamond_fringe_nofaces (0-1s), @prop_set_diamond_ruby_nofaces (1-2s), @prop_set_temple_nofaces (2-3s), @prop02 (3-4s), and finally @prop01 (4-5s). She points her fingertip at each piece as it passes, and at 4s she points at @prop01, which settles in the centre. Camera holds steady, slowly pushing in.\n5s: A soft pink-white light wash sweeps across the frame.\n5-7.5s: She now stands in a full-length shot, wearing @prop01 and @prop02, calm and elegant. Camera pushes in slowly.\n7.5-10s: Macro on @prop01 on her neckline. Camera pushes in slowly. Light rolls across every detail. Her lips and chin are in frame.\n10-12.5s: Macro on the ear and @prop02. The earring sways gently and catches a highlight. Camera tracks slowly sideways.\n12.5-15s: Close-up. Her fingertips rest softly on her cheek, @prop01 glints, and she tilts her head slightly. Camera holds steady.\n15-20s: End card. A soft light wash reveals a pastel peach-blue sky with a lotus pond at the bottom and a thin ornate border. @prop_logo stays centred at the top. The text fades in one line at a time, in an elegant serif in deep plum and champagne-gold:\n【Grand Opening】 at 15.5s\n【16-17 October 2026】 at 16.3s\n【9, The Keshavbaug Capital, Near Shivranjani Cross Road, Near ITC Narmada Hotel, Satellite, Ahmedabad - 380015】 at 17s\nLast, at 18s, a rounded button: 【Visit Our Showroom】. All text is flat and crisp, perfectly readable, spelled exactly, and holds until the end.\n\nSound: (soft fabric rustle, delicate jewel clinks, airy light-wash whoosh at 5s and 15s, a soft chime as the button appears.) No voice-over.\nConstraints: @char02 stays identical in every shot, @prop01 and @prop02 stay identical in every shot, the three set pieces keep their exact designs, no extra jewellery on her, smooth motion, no flicker, no jitter, no glow on text or logo.",
+          "duration": "20s",
+          "aspectRatio": "9:16",
+          "resolution": "1080p",
+          "model": "Seedance 2.5",
+          "createdAt": "Just now",
+          "elementsUsed": [
+            "@char02",
+            "@prop01",
+            "@prop02",
+            "@prop_set_diamond_fringe_nofaces",
+            "@prop_set_diamond_ruby_nofaces",
+            "@prop_set_temple_nofaces",
+            "@prop_logo"
+          ],
+          "tokensUsed": 974025,
+          "projectId": "proj-1791887082099",
+          "projectTitle": "Project 04",
+          "folderId": "renders-1080p",
+          "folderPath": "Renders & Masters / 1080p Final Cuts",
+          "category": "1080p Final Cuts"
+        },
+        {
+          "id": "gen-cgt-20261013183921-ijynv",
+          "title": "Shot 01: 10-second vertical 9:16 luxury...",
+          "videoUrl": "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3004914999/Video/vnyji-12938131016202-tgc_5d3e6ace4b8a0cffff00000000000000000000676169788197120/cgt-20261013183921-ijynv.mp4?X-Tos-Algorithm=TOS4-HMAC-SHA256&X-Tos-Credential=EXPIRED_TOS_KEY_REDACTED%2F20261013%2Fap-southeast-1%2Ftos%2Frequest&X-Tos-Date=20261013T104243Z&X-Tos-Expires=86400&X-Tos-Max-Requests=100&X-Tos-Signature=b95bacda0444c829724e9ab75a72bce68d867d21aa0b63f68cdab08271441aef&X-Tos-SignedHeaders=host",
+          "thumbnail": "/uploads/1791642594467_WhatsApp_Image_2026-10-10_at_7.59.39_PM.jpeg",
+          "prompt": "10-second vertical 9:16 luxury Indian jewellery commercial for Mvza Jewels. Soft warm golden-hour daylight streaming through sheer cream curtains, ivory-champagne-gold colour grade, glowing skin, creamy shallow depth of field, slow elegant motion, gentle handheld-gimbal feel, premium high-end bridal campaign look. Setting: a luxurious palace-style room with an ornate antique silver-framed mirror and tall cream curtains. Same woman @char03 in every shot, identical face, hairstyle and outfit throughout, no identity drift.\n\nSHOT 1 (0.0–1.2s): Medium-wide shot. @char03 sits before the ornate silver mirror. We see her reflection smiling softly, while her back, with her hair in a sleek low ponytail, is partly visible in the foreground. Slow push-in.\n\nSHOT 2 (1.2–2.4s): Medium close-up, front-facing. She lifts both hands near her face and delicately adjusts @prop02 at her forehead and ear. Her gaze is soft and graceful, and her bangles and hand jewellery catch the light.\n\nSHOT 3 (2.4–3.4s): Tight profile close-up. She gently touches the earring on her ear with both hands and smiles slightly. @prop02 glints and the background is dreamy bokeh.\n\nSHOT 4 (3.4–4.4s): Medium shot. She turns to face the camera with a warm, confident half-smile, hands gently crossed near her chest, and @prop01 sits elegantly on her neckline and collarbone.\n\nSHOT 5 (4.4–5.8s): Extreme macro close-up of @prop01 resting on her skin. Slow slide and slight rack focus across the intricate gold craftsmanship; light sparkles on every detail, and the skin looks warm and soft.\n\nSHOT 6 (5.8–6.8s): Macro on her hand and wrist, with jewellery and the embroidered gold fabric of her outfit in focus. The camera tilts up gently.\n\nSHOT 7 (6.8–7.8s): Full-body medium-wide shot. She stands elegantly with her arms crossed at her waist, flowing sheer gold-embroidered dupatta around her, looking down then up with a gentle smile. Slow dolly in.\n\nSHOT 8 (7.8–8.6s): Slow macro tilt-down over @prop01 and @prop02 on her neck and chest, highlights shimmering.\n\nSHOT 9 (8.6–10.0s): Final medium close-up. She looks into the camera and smiles warmly. The frame defocuses into a soft blur and fades to a clean dark background while @prop_logo appears centred, sharp and readable, with a subtle shimmer. Hold the logo for the last 1.2 seconds.\n\nAudio: soft cinematic Indian bridal instrumental, a light piano or sitar with delicate jewellery chimes on the macro shots. No dialogue.\n\nConsistency: keep @prop01, @prop02 and @prop_logo exactly as in the references, with the same design, colour, shape and detail. Logo text stays crisp. No extra random jewellery, no warped hands or fingers, no flicker, no watermark, no extra text.",
+          "duration": "10s",
+          "aspectRatio": "9:16",
+          "resolution": "1080p",
+          "model": "Seedance 2.5",
+          "createdAt": "Just now",
+          "elementsUsed": [
+            "@char03",
+            "@prop02",
+            "@prop01",
+            "@prop_logo"
+          ],
+          "tokensUsed": 488025,
+          "projectId": "proj-1791887082099",
+          "projectTitle": "Project 04",
+          "folderId": "renders-1080p",
+          "folderPath": "Renders & Masters / 1080p Final Cuts",
+          "category": "1080p Final Cuts"
+        }
+      ],
+      "dedicatedFolder": "Project 04"
+    },
+    {
+      "id": "proj-1791642139723",
+      "title": "Project 03",
+      "thumbnail": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400&auto=format&fit=crop&q=80",
+      "isPrivate": true,
+      "brief": "# Project: Project 03\n\nAdd your cinematic notes, character descriptions, and aesthetic locks here.",
+      "elements": [
+        {
+          "id": "elem-1791642175059",
+          "name": "Prop 01",
+          "tag": "@prop01",
+          "category": "prop",
+          "thumbnail": "/uploads/1791642159940_WhatsApp_Image_2026-10-10_at_7.46.22_PM.jpeg",
+          "description": "",
+          "referenceImages": [
+            "/uploads/1791642159940_WhatsApp_Image_2026-10-10_at_7.46.22_PM.jpeg"
+          ]
+        },
+        {
+          "id": "elem-1791642193843",
+          "name": "Prop 02",
+          "tag": "@prop02",
+          "category": "prop",
+          "thumbnail": "/uploads/1791642185042_WhatsApp_Image_2026-10-10_at_7.46.59_PM.jpeg",
+          "description": "",
+          "referenceImages": [
+            "/uploads/1791642185042_WhatsApp_Image_2026-10-10_at_7.46.59_PM.jpeg"
+          ]
+        },
+        {
+          "id": "elem-1791643693745",
+          "name": "Character 03",
+          "tag": "@char03",
+          "category": "character",
+          "thumbnail": "/uploads/char03_verified_pass.jpg",
+          "description": "Indian heritage luxury model in ivory satin saree-gown, dark wavy hair, warm tan skin",
+          "referenceImages": [
+            "/uploads/char03_verified_pass.jpg"
+          ]
+        }
+      ],
+      "folders": [
+        {
+          "id": "all",
+          "name": "All assets",
+          "parentId": null,
+          "category": "all",
+          "color": "#cbd5e1",
+          "assetCount": 2
+        },
+        {
+          "id": "renders",
+          "name": "Renders & Masters",
+          "parentId": null,
+          "category": "renders",
+          "color": "#eab308",
+          "assetCount": 2
+        },
+        {
+          "id": "renders-1080p",
+          "name": "1080p Final Cuts",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#06b6d4",
+          "assetCount": 1
+        },
+        {
+          "id": "renders-720p",
+          "name": "720p Fast Previews",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#10b981",
+          "assetCount": 1
+        },
+        {
+          "id": "scenes",
+          "name": "Scenes & Sequences",
+          "parentId": null,
+          "category": "scenes",
+          "color": "#a855f7",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act1",
+          "name": "Act 1 - Intro",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act2",
+          "name": "Act 2 - Product Showcase",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act3",
+          "name": "Act 3 - Logo Reveal",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "drafts",
+          "name": "Drafts & Experiments",
+          "parentId": null,
+          "category": "drafts",
+          "color": "#94a3b8",
+          "assetCount": 0
+        },
+        {
+          "id": "elements-tests",
+          "name": "Character & Prop Locks",
+          "parentId": null,
+          "category": "elements",
+          "color": "#f43f5e",
+          "assetCount": 0
+        }
+      ],
+      "assets": [
+        {
+          "id": "asset-cgt-20261010225111-xaeqt",
+          "title": "Indian Heritage Jewellery Campaign Film (20s)",
+          "type": "video",
+          "url": "/generations/user_jewellery_film.mp4",
+          "thumbnail": "/uploads/1791642159940_WhatsApp_Image_2026-10-10_at_7.46.22_PM.jpeg",
+          "duration": "20s",
+          "aspectRatio": "9:16",
+          "resolution": "1080p",
+          "model": "Seedance 2.5",
+          "prompt": "Ultra-luxurious cinematic Indian heritage jewellery campaign film, 20 seconds, vertical 9:16, multi-shot edit, photorealistic real human footage, shot on anamorphic cinema lens, shallow depth of field, dark moody chiaroscuro lighting, warm amber-gold candle glow, @prop01 and @prop02 jewellery lock.",
+          "createdAt": "2026-10-10T20:27:19.000Z",
+          "elementsUsed": [],
+          "projectId": "proj-1791642139723",
+          "projectTitle": "Project 03",
+          "folderId": "renders-1080p",
+          "folderPath": "Renders & Masters / 1080p Final Cuts",
+          "category": "1080p Final Cuts"
+        },
+        {
+          "id": "asset-cgt-20261010224536-mi9cc",
+          "title": "Character 03 Heritage Luxury Film",
+          "type": "video",
+          "url": "/generations/test_char03_seedance.mp4",
+          "thumbnail": "/uploads/char03_verified_pass.jpg",
+          "duration": "5s",
+          "aspectRatio": "9:16",
+          "resolution": "720p",
+          "model": "Seedance 2.5",
+          "prompt": "Cinematic luxury animation, woman turns her head gracefully, eyes looking toward camera, candlelight glowing, slow graceful motion.",
+          "createdAt": "2026-10-10T20:18:30.000Z",
+          "elementsUsed": [],
+          "projectId": "proj-1791642139723",
+          "projectTitle": "Project 03",
+          "folderId": "renders-720p",
+          "folderPath": "Renders & Masters / 720p Fast Previews",
+          "category": "720p Fast Previews"
+        }
+      ],
+      "dedicatedFolder": "Project 03"
+    },
+    {
+      "id": "proj-mvza-jewels",
+      "title": "MVZA",
+      "thumbnail": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&auto=format&fit=crop&q=80",
+      "isPrivate": true,
+      "brief": "# Project: MVZA Jewels (Grand Opening Brand Film)\n\n## Vision\nA 20-second ultra-luxury Indian jewelry brand film introducing MVZA Jewels showroom grand opening in Ahmedabad.\n\n## Key Rules & Aesthetic Lock\n- Volumetric warm amber lighting, golden dust motes, rich dark royal chocolate-gold grade.\n- Logo: @prop_logo_v1 in radiant polished gold.\n- 24fps cinema cadence.",
+      "elements": [
+        {
+          "id": "prop-logo-v1",
+          "name": "MVZA Jewels Logo",
+          "tag": "@prop_logo_v1",
+          "category": "prop",
+          "thumbnail": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&auto=format&fit=crop&q=80",
+          "description": "MVZA Jewels official emblem in radiant gold.",
+          "referenceImages": []
+        }
+      ],
+      "folders": [
+        {
+          "id": "all",
+          "name": "All assets",
+          "parentId": null,
+          "category": "all",
+          "color": "#cbd5e1",
+          "assetCount": 1
+        },
+        {
+          "id": "renders",
+          "name": "Renders & Masters",
+          "parentId": null,
+          "category": "renders",
+          "color": "#eab308",
+          "assetCount": 1
+        },
+        {
+          "id": "renders-1080p",
+          "name": "1080p Final Cuts",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#06b6d4",
+          "assetCount": 1
+        },
+        {
+          "id": "renders-720p",
+          "name": "720p Fast Previews",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#10b981",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes",
+          "name": "Scenes & Sequences",
+          "parentId": null,
+          "category": "scenes",
+          "color": "#a855f7",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act1",
+          "name": "Act 1 - Intro",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act2",
+          "name": "Act 2 - Product Showcase",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act3",
+          "name": "Act 3 - Logo Reveal",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "drafts",
+          "name": "Drafts & Experiments",
+          "parentId": null,
+          "category": "drafts",
+          "color": "#94a3b8",
+          "assetCount": 0
+        },
+        {
+          "id": "elements-tests",
+          "name": "Character & Prop Locks",
+          "parentId": null,
+          "category": "elements",
+          "color": "#f43f5e",
+          "assetCount": 0
+        }
+      ],
+      "assets": [
+        {
+          "id": "gen-cgt-20261008002338-wjysl",
+          "title": "Shot 01: MVZA Jewels Brand Film (Grand Opening)",
+          "videoUrl": "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3004914999/Video/lsyjw-83320080016202-tgc_01bc3466bb8a0cffff00000000000000000000610912093197120/cgt-20261008002338-wjysl.mp4?X-Tos-Algorithm=TOS4-HMAC-SHA256&X-Tos-Credential=EXPIRED_TOS_KEY_REDACTED%2F20261007%2Fap-southeast-1%2Ftos%2Frequest&X-Tos-Date=20261007T163202Z&X-Tos-Expires=86400&X-Tos-Max-Requests=100&X-Tos-Signature=c707eb070831a11d406b3bfee8349cd68787893a73e13bebd43c5fa970cf2e8b&X-Tos-SignedHeaders=host",
+          "thumbnail": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&auto=format&fit=crop&q=80",
+          "prompt": "20-second luxury Indian jewelry brand film: MVZA Jewels Grand Opening with @prop_logo_v1. Master render: 1080p ultra-sharp DiT diffusion, 24fps cinema cadence, native volumetric lighting.",
+          "duration": "20s",
+          "aspectRatio": "9:16",
+          "resolution": "1080p",
+          "model": "Seedance 2.5",
+          "createdAt": "Just now",
+          "elementsUsed": [
+            "@prop_logo_v1"
+          ],
+          "tokensUsed": 974025,
+          "projectId": "proj-mvza-jewels",
+          "projectTitle": "MVZA",
+          "folderId": "renders-1080p",
+          "folderPath": "Renders & Masters / 1080p Final Cuts",
+          "category": "1080p Final Cuts"
+        }
+      ],
+      "dedicatedFolder": "MVZA"
+    },
+    {
+      "id": "594b72c0-6bff-4b74-bc3f-62524814c45b",
+      "title": "SEE IT",
+      "thumbnail": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400&auto=format&fit=crop&q=80",
+      "isPrivate": true,
+      "brief": "# Project: SEE IT (AI Commercial)\n\n## Vision\nA high-energy, premium tech commercial showcasing next-generation 'SeeIt AI' smart spectacles worn by Kabir.\n\n## Key Rules & Aesthetic Lock\n- Color Grade: Cinematic teal & amber with deep blacks.\n- Character: Kabir (@char_kabir01) maintains consistent face.",
+      "elements": [],
+      "folders": [
+        {
+          "id": "all",
+          "name": "All assets",
+          "parentId": null,
+          "category": "all",
+          "color": "#cbd5e1",
+          "assetCount": 1
+        },
+        {
+          "id": "renders",
+          "name": "Renders & Masters",
+          "parentId": null,
+          "category": "renders",
+          "color": "#eab308",
+          "assetCount": 1
+        },
+        {
+          "id": "renders-1080p",
+          "name": "1080p Final Cuts",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#06b6d4",
+          "assetCount": 1
+        },
+        {
+          "id": "renders-720p",
+          "name": "720p Fast Previews",
+          "parentId": "renders",
+          "category": "renders",
+          "color": "#10b981",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes",
+          "name": "Scenes & Sequences",
+          "parentId": null,
+          "category": "scenes",
+          "color": "#a855f7",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act1",
+          "name": "Act 1 - Intro",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act2",
+          "name": "Act 2 - Product Showcase",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "scenes-act3",
+          "name": "Act 3 - Logo Reveal",
+          "parentId": "scenes",
+          "category": "scenes",
+          "color": "#c084fc",
+          "assetCount": 0
+        },
+        {
+          "id": "drafts",
+          "name": "Drafts & Experiments",
+          "parentId": null,
+          "category": "drafts",
+          "color": "#94a3b8",
+          "assetCount": 0
+        },
+        {
+          "id": "elements-tests",
+          "name": "Character & Prop Locks",
+          "parentId": null,
+          "category": "elements",
+          "color": "#f43f5e",
+          "assetCount": 0
+        }
+      ],
+      "assets": [
+        {
+          "id": "gen-cgt-20260929064934-pr749",
+          "title": "Shot 01: Ahmedabad Market Clown Transformation",
+          "videoUrl": "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3004914999/Video/947rp-43946092906202-tgc_813ae694d88a0cffff00000000000000000000903577536097120/cgt-20260929064934-pr749.mp4?X-Tos-Algorithm=TOS4-HMAC-SHA256&X-Tos-Credential=EXPIRED_TOS_KEY_REDACTED%2F20260928%2Fap-southeast-1%2Ftos%2Frequest&X-Tos-Date=20260928T225216Z&X-Tos-Expires=86400&X-Tos-Max-Requests=100&X-Tos-Signature=06da4813fd31e594f7d55f9a4e29e89de07ed994079d5965d57df699e6aef5a8&X-Tos-SignedHeaders=host",
+          "thumbnail": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400&auto=format&fit=crop&q=80",
+          "prompt": "VERTICAL 9:16, EXACTLY 6.0 SECONDS, 6 SHOTS, 5 HARD CUTS, 1080p. Kabir and Rohan in Ahmedabad market clown transformation.",
+          "duration": "5s",
+          "aspectRatio": "9:16",
+          "resolution": "1080p",
+          "model": "Seedance 2.5",
+          "createdAt": "Just now",
+          "elementsUsed": [
+            "@char_kabir01",
+            "@prop_seeit-glasses"
+          ],
+          "tokensUsed": 245025,
+          "projectId": "594b72c0-6bff-4b74-bc3f-62524814c45b",
+          "projectTitle": "SEE IT",
+          "folderId": "renders-1080p",
+          "folderPath": "Renders & Masters / 1080p Final Cuts",
+          "category": "1080p Final Cuts"
+        }
+      ],
+      "dedicatedFolder": "SEE IT"
+    }
+  ],
+  "globalElements": [
+    {
+      "id": "prop-glasses",
+      "name": "SeeIt Smart Glasses",
+      "tag": "@prop_seeit-glasses",
+      "category": "prop",
+      "thumbnail": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&auto=format&fit=crop&q=80",
+      "description": "Thick high-gloss black acetate frame, panto lenses, miniature camera lens module with thin silver ring in upper-outer corner, microphone pinhole on nose bridge.",
+      "referenceImages": [
+        "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=1080&auto=format&fit=crop&q=80"
+      ]
+    },
+    {
+      "id": "char-kabir-01",
+      "name": "Kabir (Official Model)",
+      "tag": "@char_kabir01",
+      "category": "character",
+      "thumbnail": "/characters/kabir/kabir_face_front.jpg",
+      "description": "Kabir: 25-year-old South Asian man with thick wavy voluminous dark brown hair, sharp jawline, light well-groomed stubble, warm hazel eyes, confident expression. Wearing an olive-green overshirt open over a white crewneck t-shirt, indigo jeans, and a black sling backpack.",
+      "referenceImages": [
+        "/characters/kabir/kabir_face_front.jpg",
+        "/characters/kabir/kabir_face_angle.jpg"
+      ]
+    },
+    {
+      "id": "char-lady-v1",
+      "name": "Lady (Vogue High-Jewelry Model)",
+      "tag": "@char_lady_v1",
+      "category": "character",
+      "thumbnail": "/characters/lady/lady_original.png",
+      "description": "Lady: Elegant South Asian / Indian high-fashion luxury model with delicate facial structure, warm almond-brown eyes, sculpted cheekbones, full lips, and wet-look slicked-back dark hair. Wearing a dramatic black ruffled organza off-shoulder gown with scalloped plunging neckline.",
+      "referenceImages": [
+        "/characters/lady/lady_original.png"
+      ]
+    },
+    {
+      "id": "prop-logo-v1",
+      "name": "MVZA Jewels Logo",
+      "tag": "@prop_logo_v1",
+      "category": "prop",
+      "thumbnail": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&auto=format&fit=crop&q=80",
+      "description": "MVZA Jewels official emblem in radiant gold.",
+      "referenceImages": []
+    },
+    {
+      "id": "elem-1791642175059",
+      "name": "Prop 01",
+      "tag": "@prop01",
+      "category": "prop",
+      "thumbnail": "/uploads/1791642159940_WhatsApp_Image_2026-10-10_at_7.46.22_PM.jpeg",
+      "description": "",
+      "referenceImages": [
+        "/uploads/1791642159940_WhatsApp_Image_2026-10-10_at_7.46.22_PM.jpeg"
+      ]
+    },
+    {
+      "id": "elem-1791642193843",
+      "name": "Prop 02",
+      "tag": "@prop02",
+      "category": "prop",
+      "thumbnail": "/uploads/1791642185042_WhatsApp_Image_2026-10-10_at_7.46.59_PM.jpeg",
+      "description": "",
+      "referenceImages": [
+        "/uploads/1791642185042_WhatsApp_Image_2026-10-10_at_7.46.59_PM.jpeg"
+      ]
+    },
+    {
+      "id": "elem-1791642596996",
+      "name": "Character 03",
+      "tag": "@char03",
+      "category": "character",
+      "thumbnail": "/uploads/1791642594467_WhatsApp_Image_2026-10-10_at_7.59.39_PM.jpeg",
+      "description": "",
+      "referenceImages": [
+        "/uploads/1791642594467_WhatsApp_Image_2026-10-10_at_7.59.39_PM.jpeg"
+      ]
+    },
+    {
+      "id": "elem-1791887360748",
+      "name": "LOGO",
+      "tag": "@prop_logo",
+      "category": "prop",
+      "thumbnail": "/uploads/1791887343254_05_LOGO_trsp.png",
+      "description": "",
+      "referenceImages": [
+        "/uploads/1791887343254_05_LOGO_trsp.png"
+      ]
+    },
+    {
+      "id": "elem-1791891665304",
+      "name": "Character 02",
+      "tag": "@char02",
+      "category": "character",
+      "thumbnail": "/uploads/1791891657978_Tanisha_01.png",
+      "description": "",
+      "referenceImages": [
+        "/uploads/1791891657978_Tanisha_01.png"
+      ]
+    },
+    {
+      "id": "elem-1791892028832",
+      "name": "set_diamond_fringe_nofaces",
+      "tag": "@prop_set_diamond_fringe_nofaces",
+      "category": "prop",
+      "thumbnail": "/uploads/1791892004431_set_diamond_fringe_nofaces.png",
+      "description": "",
+      "referenceImages": [
+        "/uploads/1791892004431_set_diamond_fringe_nofaces.png"
+      ]
+    },
+    {
+      "id": "elem-1791892066896",
+      "name": "set_diamond_ruby_nofaces",
+      "tag": "@prop_set_diamond_ruby_nofaces",
+      "category": "prop",
+      "thumbnail": "/uploads/1791892046231_set_diamond_ruby_nofaces.png",
+      "description": "",
+      "referenceImages": [
+        "/uploads/1791892046231_set_diamond_ruby_nofaces.png"
+      ]
+    },
+    {
+      "id": "elem-1791892099656",
+      "name": "set_temple_nofaces",
+      "tag": "@prop_set_temple_nofaces",
+      "category": "prop",
+      "thumbnail": "/uploads/1791892081728_set_temple_nofaces.png",
+      "description": "",
+      "referenceImages": [
+        "/uploads/1791892081728_set_temple_nofaces.png"
+      ]
+    }
+  ],
+  "chats": [],
+  "activeProjectId": "proj-1791887082099",
+  "lastUpdated": "2026-10-22T18:39:25.821Z"
+}
