@@ -346,13 +346,13 @@ export default function PromptBox({
       ...availableElements, 
       ...userUploads, 
       ...uploadedElements
-    ].filter(e => (!e.type || e.type === 'image') && !e.tag?.startsWith('@vid')).length;
+    ].filter((e: any) => (!e.type || e.type === 'image') && !e.tag?.startsWith('@vid')).length;
 
     const existingVidCount = [
       ...availableElements, 
       ...userUploads, 
       ...uploadedElements
-    ].filter(e => e.type === 'video' || e.tag?.startsWith('@vid')).length;
+    ].filter((e: any) => e.type === 'video' || e.tag?.startsWith('@vid')).length;
 
     files.forEach((file, idx) => {
       const isVideo = file.type.startsWith('video') || /\.(mp4|webm|mov|mkv|avi|m4v)$/i.test(file.name);

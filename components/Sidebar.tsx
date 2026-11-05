@@ -360,7 +360,7 @@ export default function Sidebar({
               {/* User Projects List (Real SEE IT project from user account) */}
               <div className="space-y-1 mt-1">
                 {filteredProjects.map((p) => {
-                  const isActive = currentProject && currentProject.id === p.id && activeView === 'project';
+                  const isActive = currentProject && currentProject.id === p.id && (activeView as string) === 'project';
 
                   return (
                     <div

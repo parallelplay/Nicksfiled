@@ -112,7 +112,7 @@ export async function GET(req: Request) {
         : (resolution === '1080p' ? 'Renders & Masters / 1080p Final Cuts' : 'Renders & Masters / 720p Fast Previews');
       const resolvedCategory = resolution === '1080p' ? '1080p Final Cuts' : '720p Fast Previews';
 
-      const asset = {
+      const asset: any = {
         id: `gen-${taskId}`,
         title,
         videoUrl,
@@ -126,6 +126,7 @@ export async function GET(req: Request) {
         tokensUsed,
         elementsUsed: [],
         projectId: reqProjectId || undefined,
+        projectTitle: undefined,
         folderId: resolvedFolderId,
         folderPath: resolvedFolderPath,
         category: resolvedCategory,
@@ -164,10 +165,6 @@ export async function GET(req: Request) {
         status: data.status,
         videoUrl,
         asset,
-        liveRemainingBalance,
-        raw: data,
-      });
-    }
         liveRemainingBalance,
         raw: data,
       });
